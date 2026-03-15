@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "ChaletComprime-CologneSixty"; /* Give the font a name */
+    src: url('ChaletComprime CologneSixty.otf') format('otf'),  /* WOFF2 is preferred */
+         url('fonts/myfont.woff') format('woff');  /* Fallback for browsers not supporting WOFF2 */
+  }
+  .nav:hover{
+    border-bottom: 2px solid white;
+    transition: .3s ease-in;
+    
+  }
+
+  .bebas-font{
+
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  
+  }
+
+  .button-font{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+  }
+
+  .para-font{
+    font-family: "Poppins", sans-serif;
+    columns: #121212;
+    font-size: 1.2rem;
+  }
