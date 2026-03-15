@@ -7,6 +7,15 @@ The project focuses on implementing layout design, styling, and interactive comp
 
 ---
 
+## 👤 Student Details
+
+- Name: Sanghmitra Shakya  
+- Branch: CSE (Data Science)  
+- Admission No: 2025B15410312  
+
+---
+
+
 ## 🎮 Project Overview
 
 The GTA V Clone is a static frontend project that replicates the design aesthetics of the GTA V website. It demonstrates how HTML, CSS, and JavaScript can be used to build visually appealing and responsive web pages.
