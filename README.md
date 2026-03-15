@@ -25,8 +25,6 @@ Key features of the project include:
 
 * HTML5 – Page structure
 * CSS3 – Styling and layout design
-* JavaScript – Basic interactivity
-
 ---
 
 ## 📁 Project Structure
